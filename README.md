@@ -34,7 +34,7 @@ Model Building
 
 Designed a Deep Neural Network using TensorFlow/Keras
 
-Used activation functions, dropout layers, and optimizer tuning
+Used activation functions
 
 Evaluation
 
