@@ -14,8 +14,6 @@ The goal is to predict housing prices accurately using real-world structured dat
 🔍 Project Workflow
 Data Preprocessing
 
-Handled missing values
-
 Normalized input features
 
 Encoded categorical variables (if any)
